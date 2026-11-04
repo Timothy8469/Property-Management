@@ -1,0 +1,21 @@
+body{
+    background: linear-gradient(to bottom, #022646 55%, #a18755);
+}
+h2{
+    color: white;
+}
+th{
+    color: white;
+}
+td{
+    color: white;
+    font-size: 20px;
+}
+.skyline {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;     /* fills the screen width */
+    height: auto;    /* keeps the picture's shape */
+    display: block;  /* removes the small gap under images */
+} 
